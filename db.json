@@ -1,0 +1,55 @@
+{
+  "buildings": [
+    {
+      "id": 1,
+      "name": "教学楼A",
+      "monthly": {
+        "electricity": 25430,
+        "water": 1542
+      },
+      "weekly": [
+        {"day": "2024-05-01", "electricity": 850, "water": 52},
+        {"day": "2024-05-02", "electricity": 920, "water": 58},
+        {"day": "2024-05-03", "electricity": 780, "water": 49},
+        {"day": "2024-05-04", "electricity": 890, "water": 55},
+        {"day": "2024-05-05", "electricity": 930, "water": 57},
+        {"day": "2024-05-06", "electricity": 810, "water": 50},
+        {"day": "2024-05-07", "electricity": 880, "water": 54}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "教学楼B",
+      "monthly": {
+        "electricity": 18760,
+        "water": 1320
+      },
+      "weekly": [
+        {"day": "2024-05-01", "electricity": 850, "water": 52},
+        {"day": "2024-05-02", "electricity": 92, "water": 58},
+        {"day": "2024-05-03", "electricity": 78, "water": 49},
+        {"day": "2024-05-04", "electricity": 89, "water": 55},
+        {"day": "2024-05-05", "electricity": 93, "water": 57},
+        {"day": "2024-05-06", "electricity": 81, "water": 50},
+        {"day": "2024-05-07", "electricity": 880, "water": 54}
+    ]
+    },
+    {
+      "id": 3,
+      "name": "教学楼C",
+      "monthly": {
+        "electricity": 32450,
+        "water": 1680
+      },
+      "weekly": [
+        {"day": "2024-05-01", "electricity": 999, "water": 52},
+        {"day": "2024-05-02", "electricity": 999, "water": 58},
+        {"day": "2024-05-03", "electricity": 999, "water": 49},
+        {"day": "2024-05-04", "electricity": 999, "water": 55},
+        {"day": "2024-05-05", "electricity": 999, "water": 57},
+        {"day": "2024-05-06", "electricity": 999, "water": 50},
+        {"day": "2024-05-07", "electricity": 999, "water": 54}
+    ]
+    }
+  ]
+}
